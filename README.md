@@ -11,7 +11,7 @@ $ npm install @iimmaannuueell/tiny
 ## Usage
 
 ```python
-const tiny = require("@bamblehorse/tiny");
+const tiny = require("@iimmaannuueell/tiny");
 
 tiny("So much space!");
 //=> "Somuchspace!"
