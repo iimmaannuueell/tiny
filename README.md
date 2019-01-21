@@ -1,8 +1,6 @@
 # Foobar
 
-https://img.shields.io/badge/npm-V1.0.0-blue.svg
-
-Foobar is a Python library for dealing with word pluralization.
+Removes all spaces from a string.
 
 ## Installation
 
